@@ -1,0 +1,15 @@
+diff --git a/Menu.txt b/Menu.txt
+index 80c5624..4f56c01 100644
+--- a/Menu.txt
++++ b/Menu.txt
+@@ -1,4 +1,7 @@
+ Steak tartare
+ Salade norvégienne
+ Filet de dorade
+-Bar à la citronelle
+\ No newline at end of file
++Bar à la citronelle
++
++Nouvelle recette du chef :
++pâtes bolognaises
+\ No newline at end of file
